@@ -25,3 +25,17 @@ Espera-se desenvolver uma compreensão dos métodos utilizados na análise de cr
 ## Andamento
 
 Este repositório está em construção e será atualizado gradualmente com os estudos, referências bibliográficas, códigos e resultados desenvolvidos ao longo da Iniciação Científica.
+
+## Referências e Créditos
+
+Este projeto utiliza como referência o trabalho **"Análise de Risco de Crédito com Machine Learning"**, desenvolvido por **Otavio S. S.**, o intuito é **fazer todos os procedimentos clássicos de machine learning no mesmo banco de dados, estudar as variáveis e realizar a inferencia fuzzy e comparar os resultados**
+
+- **Autor original:** [otavio-s-s](https://github.com/otavio-s-s)
+- **Repositório de origem:** [data_science](https://github.com/otavio-s-s/data_science)
+- **Notebook original:** [Análise de Risco de Crédito com Machine Learning](https://github.com/otavio-s-s/data_science/blob/master/An%C3%A1lise%20de%20Risco%20de%20Cr%C3%A9dito%20com%20Machine%20Learning.ipynb)
+
+O notebook foi incorporado a este repositório para fins de estudo, análise e referência, mantendo os créditos ao autor original.
+
+As eventuais adaptações e modificações realizadas no material original são de responsabilidade dos respectivos autores.
+
+Todos os direitos relativos ao trabalho original permanecem atribuídos ao seu respectivo autor.
